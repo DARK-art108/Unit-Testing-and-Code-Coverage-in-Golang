@@ -1,0 +1,5 @@
+mode: set
+/root/go-practice/hello.go:5.32,7.20 1 1
+/root/go-practice/hello.go:7.20,10.3 1 1
+/root/go-practice/hello.go:10.8,13.3 1 1
+/root/go-practice/main.go:9.13,16.2 4 0
